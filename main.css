@@ -1,0 +1,199 @@
+
+.err_msg{ 
+    color:red;
+    font-size: 15px;
+    /* text-decoration: underline; */
+}
+.wrapper80{
+    display:grid;
+    grid-template-columns: 80% 20%;
+    grid-auto-rows:minmax(100px, auto)
+}
+.wrapper50{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows:minmax(100px, auto)
+}
+
+/* .wrapper50 > div{
+    background-color: grey;
+}
+.wrapper50 >div:nth-child(odd){
+    background-color: blue;
+} */
+h1{
+    font-size:40px;
+}
+img.logo {
+    max-width: 230px;
+    height: auto;
+    float: left;
+    margin-left: 250px;
+}
+.avatar{
+    width: 230px;
+    height: 150px;
+}
+.voteQuestion{
+    background-color: white;
+    color: black;
+}
+.center{
+    text-align:center;
+}
+.center80{
+    padding-left:250px;
+}
+.green{
+    background-color: #4CAF50;
+    padding: 1px;
+
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+.table1{
+    font-size: 14px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+.table2{
+    font-size: 22px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.wideTable{
+    min-width: 600px;
+}
+.table3{
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+.whiteLine{
+    border: 1px solid white;
+}
+
+.whiteLineTop{
+    border-top: 1px solid white;
+}
+
+
+
+.greenText{
+    color: rgb(24, 197, 24);
+}
+.darkGreenText{
+    color:#4CAF50;
+}
+
+.small{
+    font-size: 12px;
+}
+
+.right{
+    float:right;
+}
+.sidebar{
+    background-color: white;
+    color: black;
+    padding: 4px;
+    min-width: 255px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-decoration:none;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+}
+.graphs{
+    width: 100%;
+}
+.textbox{
+    width: 245px;
+    
+}
+.button {
+    border: none;
+    color: white;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    border-radius: 12px;
+    }
+    .normalButton{
+        border: none;
+        color: black;
+        padding: 4px 7px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 13px;
+        margin: 4px 2px;
+        cursor: pointer;
+        background-color: white;
+        border-radius: 2px;
+    }
+    .normalButtonNoBackground{
+        border: none;
+        color: black;
+        padding: 4px 7px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 13px;
+        margin: 4px 2px;
+        cursor: pointer;
+        background-color: black;
+        border-radius: 2px;
+    }
+/* p {
+    margin: 0;
+    padding: 0;
+} */
+.managementTable{
+    font-size: 14px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+.left{
+    text-align:left;
+}
+.graphButton{
+    border: none;
+    color: black;
+    padding: 4px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(0, 204, 255);
+    border-radius: 2px;
+}
+.graphAnswer{
+    width:200px;
+}
+.invisible{
+    visibility: hidden;
+}
+.displayNone{
+    display: none;
+}

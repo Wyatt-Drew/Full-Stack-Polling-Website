@@ -1,0 +1,31 @@
+Name: Wyatt Drew
+Student Number: 200225999
+Class Number: CS 215 section 397
+URL: http://www.webdev.cs.uregina.ca/~drew111w/Assignments/Assignment6/main.php
+
+List of files and purpose:
+RESOURCES
+1. Logo1.PNG - This is the logo I chose for my micro polling website. 
+
+CSS
+2. main.css - This file contains all the .css code for all the webpages.
+
+HTML
+3. PollCreation.php - Contains the html code for and php the poll creation page.
+4. PollManagement.php - Contains the html code and php for the poll management page.
+5. PollResults.php - Contains the html code and php for the poll results page.
+6. PollVote.php - Contains the html code and php for the poll vote page.
+7. SignUp.php - Contains the html code and php for the sign up page.
+8. main.php - Contains the html code and php for the main page.
+
+JAVASCRIPT
+9. signUp.js - Contains the event listeners for the sign up page.
+10. pollCreation.js - Contains the event listeners for the poll creation page.
+11. validate.js - Contains the validation the functions for validating the javascript on all the pages.
+
+AJAX
+12. main.js - Contains the event listeners for the main page.
+13. PollVote.js - Contains the event listeners for the poll voting page.
+14. scripts.js - Contains the JS functions all AJAX
+15. mainUpdate.php - Contains the PHP code for the AJAX used by main.
+16. PollVoteUpdate.php - Contains the PHP code for the AJAX used by the vote page.
